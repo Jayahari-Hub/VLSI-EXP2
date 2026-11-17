@@ -60,20 +60,19 @@ To design and simulate Y=(A+BC)' circuit using Synopsys EDA tools, analyze its e
 
 #### 2. Schematic of CMOS L0gic:
 
-   <img width="1033" height="733" alt="WhatsApp Image 2026-10-27 at 12 21 00 PM" src="https://github.com/user-attachments/assets/f234de9f-d81b-4759-a655-1a95ce3d015b" />
+ <img width="1070" height="630" alt="EXP2 - Schematic Circuit" src="https://github.com/user-attachments/assets/03593a75-6375-46a3-86e8-d6ad1396ce98" />
+  
 
 
 #### 3. Transient Response Setup:
 
-
-<img width="936" height="475" alt="image" src="https://github.com/user-attachments/assets/145b8b37-12af-4b55-8826-11a6fc8a5227" />
+<img width="1530" height="817" alt="EXP2 - Transient Response Setup" src="https://github.com/user-attachments/assets/df695c02-8b88-420e-a989-255843c64687" />
 
 
 ## Output
 #### 1.Transient Analysis
 
-<img width="1600" height="841" alt="WhatsApp Image 2026-10-27 at 12 21 10 PM" src="https://github.com/user-attachments/assets/bd160731-a49b-47fe-80b8-a598e09da0bc" />
-
+<img width="1534" height="645" alt="EXP2 - Output Waveform" src="https://github.com/user-attachments/assets/59141eea-f6e9-4c74-b64b-3514f7c3d2f2" />
 
 ## Results:
 
